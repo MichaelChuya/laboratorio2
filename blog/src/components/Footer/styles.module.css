@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+.column{
+    flex: 1;
+    text-align: center;
+}
+
+.column ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+.column ul li{
+    margin-bottom: 5px;
+}
